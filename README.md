@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m a Ph.D. student at the Department of Electrical and Computer Engineering, University of Toronto. 
+🌱 My current research interest is to apply Machine Learning (ML) to design analog integrated circuits (ICs) and systems. 
+📫 How to reach me: zonghao.lee@gmail.com 
+🌐 My personal website: www.zonghaoli.com
