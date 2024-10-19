@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zonghao.lee@gmail.com 
 - 🌐 My website: www.zonghaoli.com
 ---
+
 ### Current Research Interests:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chriszonghaoli&repo=sky130_comparator_rl&show_owner=true&description_lines_count=3&theme=github_dark_dimmed)](https://github.com/ChrisZonghaoLi/sky130_comparator_rl)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chriszonghaoli&repo=sky130_ldo_rl&show_owner=true&description_lines_count=3&theme=github_dark_dimmed)](https://github.com/ChrisZonghaoLi/sky130_ldo_rl)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chriszonghaoli&repo=pystateye&show_owner=true&description_lines_count=3&theme=github_dark_dimmed)](https://github.com/ChrisZonghaoLi/pystateye)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chriszonghaoli&repo=mmse_dfe&show_owner=true&description_lines_count=3&theme=github_dark_dimmed)](https://github.com/ChrisZonghaoLi/mmse_dfe)
